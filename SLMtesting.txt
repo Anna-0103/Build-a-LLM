@@ -1,0 +1,222 @@
+# HuggingFaceTB/SmolLM2-135M
+
+## "What is 2+2?"
+
+Run 1:
+
+What is 2+2? The sum of two numbers, like this:
+
+3 + 5 = ?
+
+But the number we get from 10.96 is not what we want! We would have to multiply 2 by 7 because that's how many times you can add the digits together before you get a whole number. So 3 x 7 = 21 and 4 x 7 = 28. That leaves us with 20 but now we need to divide both numbers. So we write down our answer on the board: 20 ÷ 7 = 2 or 20 divided by 7 equals 2. Now it looks as if we don't know which way to do the division - so we just start over again. We're going to end up with 20 ÷ 7 in our head (we think) and we are halfway through dividing each digit separately when we see "7". So let's stop here for now and then move on to the next question.
+
+Question 2:
+
+Which statement about 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2
+
+Run 2:
+
+What is 2+2?
+
+How to convert between square meters and square centimeters. A square meter is a unit of area in the metric system, it measures one square metre (m²) of surface area. The SI derived unit for area is the square meter, which can be also converted using the conversion formula given below.
+
+1 square meter = 10 cm × 10 cm
+
+Square Centimeters
+The square centimeter is an SI derived unit for area, defined as the area of a cube with side length equal to one meter. The square centimetre is commonly used to express small areas that are too large for other units such as cubic metres or kilometres squared.
+
+Square Centimeter Conversion Table
+Here you can find the conversion tables for square meters to square centimeters:
+
+Square Meters to Square Centimeters 3600 sq m 5847.9862519685 cm³ 3700 sq m 6185.2803685031 cm³ 3800 sq m 6422.6656306236 cm³ 3900 sq m 666
+
+Run 3:
+
+What is 2+2? In a game of chance, the number 3 represents "success". The outcome of the game will be as follows:
+
+3 = 6 (total win) + 4 (loss). The number 1 corresponds to "failure" - this means that in the end there's no win or loss. If we are playing with dice and we roll them 5 times, then the result will look like this:
+
+1 (roll one), 2 (rolled twice), 3 (one time) Now, if we want to make it even more fun by adding a little bit more randomness, how can we determine which side wins when rolling a die? Well, this comes down to something called the "sum rule", where you add up all the possible outcomes before deciding on the winner. Let's take another example: Let's say we're playing a game where we have 7 marbles and we roll three dice. What do we call the sum of these numbers? We could simply list out each individual number, but what happens if we also consider their totals together instead? For instance, let's say we rolled 8 sixes and got a 9, which would give us 10! Now, imagine having two rolls of
+
+## Here is my top 10 list of landmarks to see in Paris:
+
+Run 1: 
+
+Here is my top 10 list of landmarks to see in Paris:
+
+The Eiffel Tower The Eiffel Tower is the world’s tallest building, and one of the most famous monuments globally. It was built for the first time in 1889 by Gustave Eiffel and Gustave Eiffel himself. The Eiffel tower stands at 362 meters high (about two thirds as tall as the Empire State Building). A unique feature of the Eiffel Tower is that it has a spiral staircase leading up to its top – this means you can walk around the tower from the base to the top! It also features a central entrance on the roof which leads to the observation deck.
+The Arc de Triomphe Arc de Triomphe is a French monument dedicated to the battle between France and Austria during World War I. It was created by Gustave Eiffel in 1887 to commemorate the battle. It consists of three parts; the Arch, the Column and the Monument. The Arch is the main part of the monument with an elevation of 540 metres above sea level. The Column is the largest structure within the monument and rises approximately 220 metres higher than the Arch. The Monument itself measures 117 metres long by 20 metres
+
+Run 2:
+
+Here is my top 10 list of landmarks to see in Paris: Paris, France
+
+The 18th-century Musée de la Régence (Musée du Muséum national d'Histoire naturelle) in the Centre de l’Uneige (Central Park) was originally a museum for the Louvre. It has been renovated into an art gallery since 2007. It houses some of the most important works by the French Impressionist artists. Parc des Champs Elysées, Paris, France
+The 49th-century Pont Neuf (Nouvelle-Eglise du Pont Neuf), which was built on the site of a former prison, now houses the Parisian Museum of Natural History and Ethnology. It hosts exhibitions showcasing the history of animals found throughout the world. Pont Neuf, Paris, France
+The 3rd-century-BCE Temple of Apollo at Delphi, Greece, contains a statue dedicated to Apollo that features a large eagle holding a shield with olive branches on it. Delphic Temple, Greece
+The 3rd century-BCE Temple of Hercules, located in the center of the city of Pergamum, was used as a place of
+
+Run 3:
+
+Here is my top 10 list of landmarks to see in Paris:
+
+Notre Dame Cathedral, France
+The Eiffel Tower, France
+Eiffel Tower, France
+La Concorde, France
+The Louvre, France
+Pont Neuf, France
+The Arc de Triomphe, France
+The Arc de Triumph, France
+The Louvre, France
+The Seine, France I can't wait for the next one!
+
+# HuggingFaceTB/SmolLM2-135M-Instruct
+
+## What is 2+2?
+
+Run 1:
+
+What is 2+2?
+
+Run 2:
+
+What is 2+2?
+
+Run 3:
+
+What is 2+2?
+
+## Here is my top 10 list of landmarks to see in Paris:
+
+Run 1:
+
+Here is my top 10 list of landmarks to see in Paris:
+
+The Eiffel Tower
+Notre-Dame Cathedral
+Arc de Triomphe
+Louvre Museum
+Arc de Triomphe
+Palace of Versailles
+Arc de Triomphe
+Château d'Yquendi
+Louvre Museum
+Arc de Triomphe
+I hope this gives you a sense of what I've seen so far, and feel free to ask if there are any other places you'd like me to recommend!
+
+Run 2:
+
+Here is my top 10 list of landmarks to see in Paris:
+
+The Eiffel Tower
+Notre-Dame Cathedral
+Louvre Museum
+Arc de Triomphe
+Saint-Germain-des-Prés
+Palais-Royal
+Eiffel Tower
+Arc de Triomphe
+Notre-Dame Cathedral
+Louvre Museum
+I hope you enjoy the list! Remember, there's so much more to explore and experience in Paris. Have a great day!
+
+Run 3:
+
+Here is my top 10 list of landmarks to see in Paris:
+
+Notre-Dame Cathedral
+Arc de Triomphe
+Louvre Museum
+Arc de Triomphe
+Sainte Chapelle
+Seine River
+Eiffel Tower
+Champ de Mars
+Arc de Triomphe
+Arc de Triomphe
+Now, let's look at some famous landmarks that are located near these attractions:
+
+Notre-Dame Cathedral (Beside the Eiffel Tower): This cathedral was built for King Louis XV and features a beautiful stained glass window that can be appreciated from above.
+Louvre Museum (The Louvre is one of the most visited museums globally) - Located on the north bank of the Seine, it houses thousands of works of art including the Mona Lisa and Venus de Milo.
+Arc de Triomphe (This monument stands alongside the Eiffel Tower). It commemorates the 1st French Republic and is made up of three statues which all have symbolic meanings.
+Sainte Chapelle (Located nearby Notre Dame, it has an impressive collection of illuminated manuscripts.)
+Seine River (It serves as the border between France and
+
+# Prompt an assistant 
+
+(HuggingFaceTB/SmolLM2-135M)
+
+## Why is the sky blue?
+
+Why is the sky blue?
+
+The answer to this question lies in a combination of three factors: radiation, cloud cover and atmospheric transparency.
+
+What causes the sky to be blue?
+
+A great deal of it depends on how much sunlight reaches our atmosphere. The amount of light that reaches us depends not just upon where we live but also upon what kind of clouds are present at the time. When there’s no clouds around, white light will hit all surfaces equally. This results in a bright yellow or red hue. If the surface has lots of particles in the air, however, they scatter the light (causing it to disperse), giving us dark blue skies.
+
+How do you explain why the sky looks blue when the sun is shining directly over your head?
+
+Is the sky blue for all seasons?
+
+When the sky appears blue during different times of the year, it doesn’t necessarily mean the temperature isn’t changing; it means the season itself changes too! In wintertime, the sky tends to look lighter than summer because less solar energy hits Earth compared to when the Sun is higher up in the sky. As such, it gets darker – meaning more of the sunlight falls onto the ground instead of being reflected back into space.
+
+Can you see
+
+## Why is the sky blue (example conversation between human and agent)
+
+Human: Why does ice float? Assistant: Ice is less dense than liquid water, so it floats.
+
+Human: Why do we see lightning before we hear thunder? Assistant: Light travels much faster than sound, so the flash reaches us before the thunder does.
+
+Human: Why do shadows get longer near sunset? Assistant: The Sun is low in the sky, so objects block its light at a shallow angle and cast longer shadows.
+
+Human: Why do droplets form on the outside of a cold glass? Assistant: The glass cools the air next to it, causing water vapor in that air to condense into droplets.
+
+Human: Why is the sky blue? Assistant: Blue light scatters more easily than other colors, making it appear blue.
+
+Human: What causes earthquakes? Assistant: Earth's crust moves under itself due to tectonic plates.
+
+Humans: How can you tell if someone is hungry or thirsty? Assistant: You can smell the food, taste its texture, or even feel its warmth with your skin!
+
+We have 160 questions about science for you today!
+
+What makes a cloud grow bigger and heavier? Assistant: Water freezes at a lower temperature because it has a higher freezing point.
+
+Who invented the thermometer? Assistant: Archimedes discovered this principle when he was measuring fluid pressure in ships' sails.
+
+Why are mountains called mountains? Assistant: They're formed by rocks falling down from above as they cool.
+
+How do we detect fireflies using their flashing lights? Assistant: We shine a flashlight through them, which reflects off the glowing spots.
+
+Which animals live in the desert? Assistant: Desert tortoises, desert lizards, and camels all migrate long distances between their habitats.
+
+Which animal eats only plants but drinks saltwater? Assistant: A crocodile gets its moisture from eating fish
+
+## Comparison
+
+With the standalone question, the base model repeated the question and produced a long, FAQ-style response. It mentioned light scattering, but it also made misleading claims about cloud cover and seasonal changes. With the example conversation, the same model gave a short, mostly correct answer immediately after `Assistant:`, explaining that blue light scatters more easily. It then continued the dialogue by inventing unrelated questions and giving several inaccurate answers. The examples helped the model answer more directly and follow the dialogue format, but it kept generating after the answer was complete.
+
+# Knowledge cutoff
+
+## The 2020 Nobel Prize in Economic Sciences was awarded to
+
+The 2020 Nobel Prize in Economic Sciences was awarded to the two economists who contributed most significantly and comprehensively toward this goal. The winners were Professor Abraham Kahan, of Columbia University, and Professor Robert Jendru, of Stanford University. Their work focused on measuring how a nation’s economic growth compares with its standard of living over time.
+
+In their research, Kahan and Jendru estimated that countries can be categorized as poor or rich based on whether they have higher per capita income relative to the rest of the world. As such, these societies are characterized by low levels of inequality—meaning there is little disparity between those who earn more money than others and those who don’t. On the other hand, wealthy nations tend to enjoy high levels of equality because resources are shared widely across society.
+
+Kahan and Jendru studied data from 156 developed countries for six years starting in 1987 and then extended their analysis into seven years following their initial publication in 1993. They found that while some parts of the world consistently show lower average incomes compared to richer counterparts worldwide (such as China), overall performance remained relatively stable throughout most of the study period. This finding suggests that although certain regions may experience greater disparities at different times, overall patterns remain consistent among all participants involved
+
+## The 2026 Nobel Prize in Economic Sciences was awarded to
+
+The 2026 Nobel Prize in Economic Sciences was awarded to the group of economists who developed the theory of endogenous growth. This is one of the most important theories of modern economic analysis and has had a profound impact on all aspects of economics today, from public policy and social welfare to financial markets and trade policies (Wells et al., 1987). This theory assumes that people will behave in ways that increase their own income, not because they are selfish or greedy but because they understand what it means for others to live with them as well as themselves (Porter, 1994). As such, it emphasizes the importance of considering other individuals’ goals rather than solely the needs of an individual. It also recognizes that some people might be motivated by self-interest and greed; this can make some predictions about how a society should function, however. According to the theory, there is always a finite amount of resources available and therefore no limit to human ingenuity. The goal of the economy is to maximize output while minimizing waste and environmental damage. The “social surplus” that results from economic activity creates new wealth that can then be invested to further improve living conditions. In doing so, the society gains additional benefits through better production and consumption. In terms of our current situation, if we don’t stop polluting
+
+## Knowledge cutoff comparison
+
+2020: The model gave the wrong winners and research topic. It named Abraham Kahan and Robert Jendru and described research on economic growth and living standards. The prize went to Paul R. Milgrom and Robert B. Wilson for improvements to auction theory and the invention of new auction formats.
+
+2026: The model named no winners and claimed the prize recognized work on endogenous growth. I couldn’t verify that claim from the official Nobel Prize pages available to me. NobelPrize.org’s 2025 announcement does confirm that the previous year’s prize recognized research on innovation-driven economic growth. 
+
+These completions show that the model can produce confident, detailed claims about awards even when its answer is wrong or unverified. Two prompts are insufficient to determine its exact knowledge cutoff.

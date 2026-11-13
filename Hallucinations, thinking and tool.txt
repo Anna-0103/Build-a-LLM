@@ -1,0 +1,175 @@
+# Hallucinations, thinking and tools
+
+## Step 1 - Without the article
+
+First author: I’m unsure.
+Conference challenge: I’m unsure which challenge the work was submitted to.
+Framework: I believe it was built on CANF-VC, a learned video coding framework based on conditional augmented normalizing flows.
+UV conditioning: The luma (Y) component.
+Quality metric: I believe the abstract uses PSNR (peak signal-to-noise ratio) for the comparison with x265.
+
+## Step 1 - With the article
+
+First author — Mu-Jung Chen.
+Conference challenge — The Grand Challenge on Neural Network-based Video Coding at ISCAS 2023.
+Coding framework — Conditional augmented normalizing flows (CANF).
+UV conditioning — The Y (luminance) component provides additional conditioning for coding the UV components.
+Quality metric — PSNR-YUV.
+
+## Step 2 - Who created you?
+
+OpenAI created me. I’m Codex, an AI assistant based on GPT-6.
+
+## Step 3 - Non-thinking model
+
+Run 1: Give only the final answer
+
+€930.46
+
+Run 2: Show the calculation before answering
+
+### Step 1: Calculate units sold
+
+\\[ \lfloor 1,247 \times 0.83 \rfloor = 1,035 \\]
+
+### Step 2: Calculate returned units
+
+\\[ \lfloor 1,035 \times 0.07 \rfloor = 72 \\]
+
+Net units sold:
+
+\\[ 1,035-72=963 \\]
+
+### Step 3: Calculate discounted selling price
+
+\\[ €64.90 \times (1-0.12)=€57.112 \\]
+
+### Step 4: Calculate revenue from net sales
+
+\\[ 963 \times €57.112=€54,998.856 \\]
+
+### Step 5: Calculate revenue from unsold units
+
+\\[ 1,247-1,035=212 \\]
+
+\\[ 212 \times €21.40=€4,536.80 \\]
+
+### Step 6: Calculate total revenue
+
+\\[ €54,998.856+€4,536.80=€59,535.656 \\]
+
+### Step 7: Calculate total costs
+
+Purchase cost:
+
+\\[ 1,247 \times €38.75=€48,321.25 \\]
+
+Shipping cost:
+
+\\[ 1,247 \times €2.85=€3,553.95 \\]
+
+Fixed costs:
+
+\\[ €6,730 \\]
+
+Total costs:
+
+\\[ €48,321.25+€3,553.95+€6,730=€58,605.20 \\]
+
+### Step 8: Calculate final profit
+
+\\[ €59,535.656-€58,605.20=€930.456 \\]
+
+Rounded to two decimal places:
+
+Final profit = €930.46
+
+## Step 3 - Thinking model
+
+Run 1: Give only the final answer
+
+€930.46
+
+Run 2: Show the calculation before answering
+
+### Step 1: Calculate units sold
+
+\\[ \lfloor 1247 \times 0.83 \rfloor = 1035 \\]
+
+### Step 2: Calculate returned units
+
+\\[ \lfloor 1035 \times 0.07 \rfloor = 72 \\]
+
+Net units sold:
+
+\\[ 1035-72=963 \\]
+
+### Step 3: Calculate revenue from sold units
+
+Discounted selling price:
+
+\\[ 64.90 \times (1-0.12)=57.112 \\]
+
+Revenue after refunds:
+
+\\[ 963 \times 57.112=€55,000.856 \\]
+
+### Step 4: Calculate revenue from unsold units
+
+\\[ 1247-1035=212 \\]
+
+\\[ 212 \times 21.40=€4,536.80 \\]
+
+### Step 5: Calculate total revenue
+
+\\[ 55,000.856+4,536.80=€59,537.656 \\]
+
+### Step 6: Calculate total costs
+
+Purchase costs:
+
+\\[ 1247 \times 38.75=€48,321.25 \\]
+
+Shipping costs:
+
+\\[ 1247 \times 2.85=€3,553.95 \\]
+
+Fixed costs:
+
+\\[ €6,730 \\]
+
+Total costs:
+
+\\[ 48,321.25+3,553.95+6,730=€58,605.20 \\]
+
+### Step 7: Calculate final profit
+
+\\[ 59,537.656-58,605.20=932.456 \\]
+
+Final Answer
+
+€932.46
+
+## Step 3 - Comparison of Sofort and Mittel
+
+Three of the four runs gave the correct profit of **€930.46**. Both Sofort (Instant) and Mittel (Thinking) were correct when asked to give only the final answer. When asked to show the calculation, Sofort was correct, while Mittel reported €932.46.
+
+Both calculation responses used the correct quantities: 1,035 units initially sold, 72 refunded, 963 paid sales, and 212 unsold units. Mittel made a multiplication error in the revenue after refunds. It reported €55,000.856 for 963 × €57.112, which equals €54,998.856. That error carried through to the final profit, making it €2.00 too high.
+
+Showing the calculation made it possible to pinpoint the error. Sofort was more accurate in these four runs, though this single problem is too small a test to draw a general conclusion about either setting.
+
+## Step 4
+
+### Method 1
+
+9.9 is larger than 9.11.
+
+The letter r appears 3 times in "strawberry".
+
+Every third character of "Ubiquitous", starting with the first, gives Uqiu (positions 1, 4, 7, 10).
+
+### Method 2 - Executed code
+
+Larger decimal: 9.9
+r count: 3
+Every third character: Uqts
